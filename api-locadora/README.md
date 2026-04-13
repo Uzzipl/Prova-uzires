@@ -80,6 +80,4 @@ Invoke-RestMethod `
   -Body '{"id":1}'
 ```
 
-## Observacao
 
-O projeto nao usa APIs da OpenAI. A documentacao em `/docs` e apenas da API local da locadora.
