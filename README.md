@@ -20,6 +20,5 @@ npm run dev -- --webpack
 
 ## Enderecos principais
 
-- `http://localhost:3000`
 - `http://localhost:3000/docs`
 - `http://localhost:3000/api/filmes`
